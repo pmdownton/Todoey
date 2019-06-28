@@ -56,6 +56,7 @@
 		411855A122C5058C0049A3D4 /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
+				411855AE22C5058D0049A3D4 /* Info.plist */,
 				411FC4B222C6542A00B6CA94 /* Support Files */,
 				411FC4B122C653FF00B6CA94 /* Views */,
 				411FC4B022C64E3C00B6CA94 /* Data Model */,
@@ -88,7 +89,6 @@
 		411FC4B222C6542A00B6CA94 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				411855AE22C5058D0049A3D4 /* Info.plist */,
 			);
 			path = "Support Files";
 			sourceTree = "<group>";
